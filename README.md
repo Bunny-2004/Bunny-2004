@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bunny-2004
 - 👀 I’m interested in Coding!!
-- 🌱 I’m currently learning CSE
+- 🌱 I’m currently learning C programming!
 
 <!---
 Bunny-2004/Bunny-2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
